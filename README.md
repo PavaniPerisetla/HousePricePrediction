@@ -56,7 +56,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 
 Clone the repository:
 
-git clone https://github.com/PavaniPerisetla/HousePricePrediction.git
+git clone https://github.com/PavaniPerisetla/SCT_ML_1.git
 cd HousePricePrediction
 
 
